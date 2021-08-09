@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SupremeAngelBaby13
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning on code.org
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ...
 
 <!---
